@@ -13,13 +13,13 @@ When I first tried to replicate one of his works, It took me a whole week to get
 
   That failure motivated me to read Pandas Documentation and pushed me to google a lot like the followings
   
-  > What is equivalent of fct_lump in python pandas?
-  > What is equivalent of fct_floor in python pandas?
-  > What is equivalent of gather() in python pandas?
-  > What is equivalent of unnest()-tidytext in python nltk
-  > And more Whats...... 
+  - What is equivalent of fct_lump in python pandas?
+  - What is equivalent of fct_floor in python pandas?
+  - What is equivalent of gather() in python pandas?
+  - What is equivalent of unnest()-tidytext in python nltk
+  - And more Whats...... 
   
-  I could find some but for some situations I had to implement functions by my self.
+  I could find some but for some situations I had to implement functions with pure Python.
   
 After two or three screencasts , I started to feel comfortable with his works and R (tidyverse) syntax. I am more of a Python guy and I don't know R programming much but now I even know how to make data analysis using tidyverse. Most important thing is, I was a guy who didn't know what to do with a dataset using pandas, how to stack datasets, how to melt them, how to do conditional count after groupby.
 
@@ -53,6 +53,7 @@ This project helps me -
 - Relicat all of David's TTD screencasts using python
 - Build Dashboards using plotly + dash
 - Planning to build/translate/port some useful R packages into Python on top of Pandas like
+
 -> keras to Tensorflow,
 -> fastai to PyTorch ( i'm not smart enough to do this yet! :) )
 - Write blog posts about my works (How to TidyTuesday using Python, etc).
