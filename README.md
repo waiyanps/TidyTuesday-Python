@@ -14,7 +14,7 @@ When I first tried to replicate one of his works, It took me a whole week to get
   That motivated me to read Pandas docs a lot and google a lot like (equivalent of fct_lump in python pandas, equivalent of fct_floor in python pandas, equivalent of gather() in python pandas, equivalent of unnest()-tidytext in python nltk). I could find some but for some situations I had to implement by my self.
 After two or three screencasts , I started to feel comfortable with his works and R (tidyverse) syntax. I am more of a Python guy and I don't know R programming much but now I even know how to make data analysis using tidyverse. Most Importantly, I was a guy who didn't know what to do with a dataset using pandas, how to stack datasets, how to melt them, how to do conditional count after groupby.
 
-https://github.com/waiyanps/TidyTuesday-Python/blob/main/newplot%20(3).png
+![alt text](https://github.com/waiyanps/TidyTuesday-Python/blob/main/newplot%20(3).png)
 
 But now I know that I can upgrade my Pandas skill by doing this.
 
